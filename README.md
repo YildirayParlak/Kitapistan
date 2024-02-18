@@ -2,16 +2,14 @@
 Online E-ticaret Sitesi(Kitaplar)
 Kitapistan, kitap tutkunlarının çevrimiçi olarak kitap satın alabileceği bir e-ticaret web sitesidir. Bu proje sadece frontend kısmını içermektedir, backend kısmı da geliştirilicektir.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 Sitemizde toplamda 10 sayfadan oluşmaktadır.
 Kullanıcılar, ana sayfa üzerinden popüler kitaplara olan kitaplara erişebilirler.
 Her kitap için detaylı bir ürün sayfası bulunmaktadır. Bu sayfada kitabın adı, yazarı, yayınevi, fiyatı ve açıklaması gibi bilgiler yer almaktadır.
 Kullanıcılar, istedikleri kitapları sepete ekleyebilir, sepetlerini görüntüleyebilir ve siparişlerini tamamlayabilirler.Ayrıca, hesap oluşturarak veya misafir olarak alışveriş yapma seçeneklerine de sahiptirler. 
 Kitapistan, kitapseverlere geniş bir kitap yelpazesi sunmanın yanı sıra, alışveriş deneyimini kolaylaştıran kullanıcı dostu bir arayüz sağlar.
 
-------------------Admin Paneli----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+------------------Admin Paneli--------------------------------------------------------------------------------------------------------------------------------
 Admin Paneli
 Kitapistan'ın yönetim paneli,  yöneticilerin ürünleri düzenlemesine ve yönetmesine olanak tanır. Admin paneline giriş yapmak için özel bir hesap gereklidir.
 
@@ -25,7 +23,7 @@ Takım Çalışması: Adminler, dilediği gibi takım toplantısı düzenleyip a
 Sayfa Yapısı: Adminler , ikonları , çerezleri, güvenlik yapısını haritaları ve grafikleri ayarlayabilir.
 Admin paneli, Kitapistan'ın sağladığı tüm özellikleri etkin bir şekilde yönetmeyi ve güncellemeyi sağlar. Bu sayede site yöneticileri, kullanıcı deneyimini ve satış performansını optimize edebilirler.
 
-----------------Sayfalar---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------Sayfalar------------------------------------------------------------------------------------------------------------------------------
 
 1.Anasayfa (Slider.html/css)
  -Kullanıcıların siteye giriş yaptığında karşılaştığı ilk sayfadır.
@@ -66,7 +64,7 @@ Admin paneli, Kitapistan'ın sağladığı tüm özellikleri etkin bir şekilde 
 10.Admin Giriş Sayfası (admingiris.html/css)
  -Admin girişi için kullanılan giriş sayfasıdır.
  -Kullanıcı adı ve şifre ile oturum açma imkanı sunar.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ***** Kullanılan Diller  ****
   -Html 
