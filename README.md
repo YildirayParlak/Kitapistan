@@ -26,43 +26,43 @@ Admin paneli, Kitapistan'ın sağladığı tüm özellikleri etkin bir şekilde 
 
 Sayfalar
 
-<h6>1.Anasayfa (Slider.html/css)</h6>
+<h4>1.Anasayfa (Slider.html/css)</h4>
  -Kullanıcıların siteye giriş yaptığında karşılaştığı ilk sayfadır.
  -Slider öğeleri aracılığıyla popüler kitapları ve indirimleri gösterir.
 
-<h6>2.Kullanıcı Girişi (login.html/css</h6>
+<h4>2.Kullanıcı Girişi (login.html/css</h4>
  -Kullanıcıların hesaplarına giriş yapabildikleri sayfadır.
  -Kullanıcı adı ve şifre ile oturum açma imkanı sunar.
 
-<h6>3.Kullanıcı Anasayfa (kullanici.html/css)</h6>
+<h4>3.Kullanıcı Anasayfa (kullanici.html/css)</h4>
  -Kullanıcıların giriş yaptıktan sonra erişebildiği kişiselleştirilmiş ana sayfadır.
  -Kullanıcının sipariş geçmişi, kullanıcı bilgileri, beğendiklerim, listelerim gibi bilgileri görüntüleyebilir.
 
-<h6>4.Üye Olma (üyeol.html/css)</h6>
+<h4>4.Üye Olma (üyeol.html/css)</h4>
  -Yeni kullanıcıların siteye kayıt olabileceği sayfadır.
  -Kullanıcı bilgilerini girmeleri ve kaydetmeleri için bir form içerir.
 
-<h6>5.Sepetim (sepetim.html/css)</h6>
+<h4>5.Sepetim (sepetim.html/css)</h4>
  -Kullanıcıların seçtikleri ürünleri görüntüleyip, siparişlerini tamamlayabilecekleri sayfadır.
  -Sepetteki ürünlerin listesi ve toplam fiyat bilgisi gösterilir.
 
-<h6>6.Profil Düzenleme (profil.html/css)</h6>
+<h4>6.Profil Düzenleme (profil.html/css)</h4>
  -Kullanıcıların hesap bilgilerini görüntüleyip, düzenleyebilecekleri sayfadır.
  -Kişisel bilgiler, adres bilgileri gibi bilgileri güncelleyebilirler.
 
-<h6>7.Ödeme (ödeme.html/css)</h6>
+<h4>7.Ödeme (ödeme.html/css)</h4>
  -Kullanıcıların siparişlerini ödemek için kullanabilecekleri sayfadır.
  -Ödeme bilgileri girilerek sipariş tamamlanır.
 
-<h6>8.Kitap Özellikleri (kitapsf.html/css)</h6>
+<h4>8.Kitap Özellikleri (kitapsf.html/css)</h4>
  -Her kitabın detaylı özelliklerinin bulunduğu sayfadır.
  -Kitabın adı, yazarı, fiyatı, açıklaması gibi bilgiler yer alır.
 
-<h6>9.Admin Girişi (admin.html/css)</h6>
+<h4>9.Admin Girişi (admin.html/css)</h4>
  -Site yöneticilerinin admin paneline giriş yapabilecekleri sayfadır.
  -Özel bir hesap gerektirir.
 
-<h6>10.Admin Giriş Sayfası (admingiris.html/css)</h6>
+<h4>10.Admin Giriş Sayfası (admingiris.html/css)</h4>
  -Admin girişi için kullanılan giriş sayfasıdır.
  -Kullanıcı adı ve şifre ile oturum açma imkanı sunar.
 
